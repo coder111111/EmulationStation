@@ -70,6 +70,9 @@ SET(SDL2_SEARCH_PATHS
 	/Library/Frameworks
 	/usr/local
 	/usr
+	/usr/include/x86_64-linux-gnu/SDL2
+	/usr/include/x86_64-linux-gnu
+	/usr/lib/x86_64-linux-gnu
 	/sw # Fink
 	/opt/local # DarwinPorts
 	/opt/csw # Blastwave
